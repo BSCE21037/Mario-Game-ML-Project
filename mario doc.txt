@@ -1,0 +1,3 @@
+log1,train1 : orignal settings, timeelapsed: 600000 , SuperMarioBros2 v1
+log2, train2: learning rate: 0.001 , timeelapsed: 300000 , SuperMarioBros v2
+log3, train3: learning rate: 0.0001, timeelapsed: 200000 , SuperMarioBros v2 (PLAYABLE)
